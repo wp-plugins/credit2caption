@@ -12,7 +12,6 @@ Stable tag:        1.0
 Version:           1.0
 
 
-
 == Description ==
 
 Add *IPTC credit* to the *caption* after image upload.
@@ -24,12 +23,9 @@ Copy into wp-content/plugins and activate plugin
 == Upgrade Notice ==
 
 == Screenshots ==
-
-== Changelog ==
+1. Here is where credit is saved after image upload
 
 == Frequently Asked Questions ==
 = Which IPTC field is used to get Picture Credit? =
 There is not a real standard about picture captioning.  For my purpouse I use IPTC number 2#110, in a future release I will add a configuration panel to choose where to take Credit Information
 
-
-== Donations ==
