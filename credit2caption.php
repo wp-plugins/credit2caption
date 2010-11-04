@@ -3,7 +3,7 @@
 Plugin Name: Credit2Caption
 Plugin URI: http://marbu.org/marbu/credit2caption/
 Description: Add IPTC image credit to the caption during upload.
-Version: 1.1
+Version: 1.2
 Author: Marco Buttarini
 Author URI: http://marbu.org
 Min WP Version: 3.0
