@@ -14,7 +14,7 @@ Version:           1.1
 
 == Description ==
 
-Add *IPTC credit* to the *caption* after image upload.
+Add *IPTC credit* to the *caption* of the image after have uploaded it.
 
 == Installation ==
 
